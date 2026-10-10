@@ -2,7 +2,8 @@
 Algoritm Isolation Electrocal BOOK Oxford
 MATLAB OCTAVE LINUX CAD ALGORITM ISOLATION ELECTRICAL
 WORK CHIP POWER ELECTRONIC CHIP ISOLATION CONDESADOR INDIITOR ARRAY CHIP BATERRY
- ![PID-TEMPERATURE](https://github.com/JhobergLucifer/ISOLATIONELECTRICAL/blob/main/tarea1.jpg)
+![SUPER CIRCUIT COMTER PHISICAL RUSSIAN 2008](https://www.youtube.com/watch?v=wdg4zmv3vwY)
+https://github.com/JhobergLucifer/ISOLATIONELECTRICAL/blob/main/tarea1.jpg
 
 
 ```c
